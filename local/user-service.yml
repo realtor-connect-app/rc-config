@@ -1,6 +1,2 @@
-spring:
-  application:
-    name: user-service
-
-feature.enable:
+eature.enable:
   user-api: true

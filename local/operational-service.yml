@@ -1,8 +1,4 @@
-spring:
-  application:
-    name: operational-service
-
-feature.enable:
+eature.enable:
   admin-api: true
   settings-api: true
   scheduler: true

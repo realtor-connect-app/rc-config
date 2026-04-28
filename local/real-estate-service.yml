@@ -1,6 +1,2 @@
-spring:
-  application:
-    name: real-estate-service
-
 feature.enable:
   real-estate-api: true
