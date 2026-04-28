@@ -2,3 +2,7 @@ feature.enable:
   admin-api: true
   settings-api: true
   scheduler: true
+
+openapi:
+  title: Operational Service
+  description: Admin API, Settings API and scheduled jobs

@@ -1,2 +1,6 @@
 feature.enable:
   user-api: true
+
+openapi:
+  title: User Service
+  description: Management of users and auth

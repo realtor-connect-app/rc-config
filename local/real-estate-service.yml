@@ -1,2 +1,6 @@
 feature.enable:
   real-estate-api: true
+
+openapi:
+  title: Real Estate Management Service
+  description: Management of real estates
