@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: operational-service
+
+feature.enable:
+  admin-api: true
+  settings-api: true
+  scheduler: true
